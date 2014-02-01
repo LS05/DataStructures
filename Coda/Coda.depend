@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1390409398 source:c:\users\luca\documents\workspacec++\coda\main.cpp
+	<iostream>
+	"CodaPT.h"
+	"CodaVT.h"
+
+1390409346 c:\users\luca\documents\workspacec++\coda\codavt.h
+	"Coda.h"
+
+1390408660 c:\users\luca\documents\workspacec++\coda\codapt.h
+	<iostream>
+	"Coda.h"
+	"Cella.h"
+
+1360920527 c:\users\luca\documents\workspacec++\coda\coda.h
+	<iostream>
+
+1352923109 c:\users\luca\documents\workspacec++\coda\nodo.h
+
+1360920453 c:\users\luca\documents\workspacec++\coda\cella.h
+

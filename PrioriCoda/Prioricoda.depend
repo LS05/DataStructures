@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1363868037 source:c:\users\luca\documents\workspacec++\prioricoda\main.cpp
+	<stdlib.h>
+	<iostream>
+	"PrioriCoda.h"
+
+1363868013 c:\users\luca\documents\workspacec++\prioricoda\prioricoda.h
+	<iostream>
+	"assert.h"
+

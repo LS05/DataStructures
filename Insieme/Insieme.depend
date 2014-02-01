@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1361032663 source:c:\users\luca\documents\workspacec++\insieme\insiemebool.cpp
+	<iostream>
+	<cstdlib>
+	"InsiemeBool.h"
+
+1361458833 c:\users\luca\documents\workspacec++\insieme\insiemebool.h
+	<iostream>
+
+1363863152 source:c:\users\luca\documents\workspacec++\insieme\main.cpp
+	<iostream>
+	<stdlib.h>
+	"InsiemeLista.h"
+	"InsiemeIter.h"
+
+1363863211 c:\users\luca\documents\workspacec++\insieme\insiemelista.h
+	<iostream>
+	<stdlib.h>
+	"Nodo.h"
+	"InsiemeIter.h"
+
+1361459353 c:\users\luca\documents\workspacec++\insieme\nodo.h
+	<iostream>
+	<stdlib.h>
+
+1361459216 c:\users\luca\documents\workspacec++\insieme\insiemeiter.h
+	<iostream>
+	<iterator>
+	"InsiemeLista.h"
+	"Nodo.h"
+

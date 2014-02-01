@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1363975606 source:c:\users\luca\documents\workspacec++\alberobinario\main.cpp
+	<iostream>
+	"BinTreeC.h"
+	"BinTreePT.h"
+	"UtilTree.h"
+
+1361787243 c:\users\luca\documents\workspacec++\alberobinario\bintree.h
+	<iostream>
+	"CodaPT.h"
+
+1361787217 c:\users\luca\documents\workspacec++\alberobinario\bintreec.h
+	"BinTree.h"
+	<iostream>
+
+1363865856 c:\users\luca\documents\workspacec++\alberobinario\bintreept.h
+	<iostream>
+	"BinTree.h"
+	"CellaTree.h"
+
+1361523276 c:\users\luca\documents\workspacec++\alberobinario\cellatree.h
+	<iostream>
+
+1364033160 c:\users\luca\documents\workspacec++\alberobinario\codapt.h
+	<iostream>
+	"Coda.h"
+	"Cella.h"
+
+1363964787 c:\users\luca\documents\workspacec++\alberobinario\coda.h
+	<iostream>
+
+1360920453 c:\users\luca\documents\workspacec++\alberobinario\cella.h
+
+1363976421 c:\users\luca\documents\workspacec++\alberobinario\utiltree.h
+	"CodaPT.h"
+	"ListaPT.h"
+
+1363962054 c:\users\luca\documents\workspacec++\alberobinario\listapt.h
+	<iostream>
+	"linear_list.h"
+	"Cella.h"
+
+1360775823 c:\users\luca\documents\workspacec++\alberobinario\linear_list.h
+	<iostream>
+

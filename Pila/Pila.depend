@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1390407465 source:c:\users\luca\documents\workspacec++\pila\main.cpp
+	<iostream>
+	"PilaVT.h"
+	"PilaPT.h"
+
+1390507068 c:\users\luca\documents\workspacec++\pila\pilavt.h
+	"Pila.h"
+	"nodo.h"
+
+1390506861 c:\users\luca\documents\workspacec++\pila\nodo.h
+
+1390406322 c:\users\luca\documents\workspacec++\pila\pila.h
+	<iostream>
+
+1390406968 c:\users\luca\documents\workspacec++\pila\pilapt.h
+	<iostream>
+	"Pila.h"
+	"Cella.h"
+
+1352575172 c:\users\luca\documents\workspacec++\pila\cella.h
+	<iostream>
+

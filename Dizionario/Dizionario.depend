@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1361785897 source:c:\users\luca\documents\workspacec++\dizionariodef\hash.cpp
+	<iostream>
+	<string>
+	"hash.h"
+
+1390588742 c:\users\luca\documents\workspacec++\dizionariodef\hash.h
+	<iostream>
+	<string>
+
+1390587987 source:c:\users\luca\documents\workspacec++\dizionariodef\main.cpp
+	<iostream>
+	<string>
+	"pair.h"
+	"dizionario.h"
+
+1390577928 c:\users\luca\documents\workspacec++\dizionariodef\hashtable.h
+	"ListaPT.h"
+	"hash.h"
+	"pair.h"
+	<iostream>
+
+1361785656 c:\users\luca\documents\workspacec++\dizionariodef\dictionary.h
+
+1390586854 c:\users\luca\documents\workspacec++\dizionariodef\listapt.h
+	<iostream>
+	"linear_list.h"
+	"Cella.h"
+
+1390587175 c:\users\luca\documents\workspacec++\dizionariodef\cella.h
+	<iostream>
+
+1390582514 c:\users\luca\documents\workspacec++\dizionariodef\pair.h
+
+1390588865 c:\users\luca\documents\workspacec++\dizionariodef\dizionario.h
+	<iostream>
+	"hash.h"
+	"Entry.h"
+	"ListaPT.h"
+
+1390587911 c:\users\luca\documents\workspacec++\dizionariodef\entry.h
+	<iostream>
+
+1390404253 c:\users\luca\documents\workspacec++\dizionariodef\linear_list.h
+	<iostream>
+

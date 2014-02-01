@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1360581720 source:c:\users\luca\documents\workspacec++\listavt\main.cpp
+	<iostream>
+	"ListaVT.h"
+
+1353358956 c:\users\luca\documents\workspacec++\listavt\listavt.h
+	<iostream>
+
+1390820106 source:c:\users\luca\documents\workspacec++\lista\main.cpp
+	<iostream>
+	"ListaVT.h"
+	"ListaPT.h"
+
+1390816205 c:\users\luca\documents\workspacec++\lista\listavt.h
+	<iostream>
+	"linear_list.h"
+
+1360594627 c:\users\luca\documents\workspacec++\lista\factlist.h
+	"linear_list.h"
+	"ListaVT.h"
+	"ListaPT.h"
+
+1390404253 c:\users\luca\documents\workspacec++\lista\linear_list.h
+	<iostream>
+
+1390674022 c:\users\luca\documents\workspacec++\lista\listapt.h
+	<iostream>
+	"Cella.h"
+
+1360864373 c:\users\luca\documents\workspacec++\lista\cella.h
+	<iostream>
+

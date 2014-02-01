@@ -1,0 +1,31 @@
+//
+//  OETList.h
+//  AlberoBinarioX
+//
+//  Created by Luca Suriano on 10/09/13.
+//  Copyright (c) 2013 Luca Suriano. All rights reserved.
+//
+
+#ifndef AlberoBinarioX_OETList_h
+#define AlberoBinarioX_OETList_h
+#include "CodaPT.h"
+
+template<class T>
+class OETList{
+public:
+    typedef T tiponodo;
+    OETList();
+    void addElement(tiponodo);
+private:
+    CodaPT<T> S;
+    CodaPT<T> D;
+};
+
+
+template<class T>
+void OETList<T>::addElement(tiponodo n){
+    
+}
+
+
+#endif

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1364038129 source:c:\users\luca\documents\workspacec++\alberonario\main.cpp
+	"TreePT.h"
+	"NodoPtr.h"
+	"EsAlbero.h"
+
+1361211897 c:\users\luca\documents\workspacec++\alberonario\treelist.h
+	"ListaPT.h"
+	"Tree.h"
+
+1364033449 c:\users\luca\documents\workspacec++\alberonario\tree.h
+	<iostream>
+
+1364038272 c:\users\luca\documents\workspacec++\alberonario\listapt.h
+	<iostream>
+	"linear_list.h"
+	"Cella.h"
+
+1360775823 c:\users\luca\documents\workspacec++\alberonario\linear_list.h
+	<iostream>
+
+1362424596 c:\users\luca\documents\workspacec++\alberonario\cella.h
+
+1362424824 c:\users\luca\documents\workspacec++\alberonario\treept.h
+	<iostream>
+	"Tree.h"
+	"NodoPtr.h"
+	"CodaPT.h"
+
+1361212952 c:\users\luca\documents\workspacec++\alberonario\nodoptr.h
+	<iostream>
+
+1364038339 c:\users\luca\documents\workspacec++\alberonario\esalbero.h
+	"TreePT.h"
+	"CodaPT.h"
+
+1364036729 c:\users\luca\documents\workspacec++\alberonario\codapt.h
+	<iostream>
+	"Coda.h"
+	"Cella.h"
+
+1360920527 c:\users\luca\documents\workspacec++\alberonario\coda.h
+	<iostream>
+
